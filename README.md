@@ -30,5 +30,18 @@ The primary datasets used in this project will come from the following sources:
    * Spread of accident over different months,
    * Types of faults causing the accidents,
    * Number of traffic tickets given,
-   * Reasons for the traffic tickets given will be analyzed and studied.
+   * Reasons for the traffic tickets given,
+   * Number of drivers licenses revoked,
+   * Number of cars banned from traffic will be analyzed and studied.
    
+## Sample Data
+
+Below is an example of how the dataset might look after cleaning and merging data from TUIK and the Gendarmerie General Command:
+
+| Year | Total Vehicles | Traffic Accidents | Injuries | Fatalities | Driver Error % | Other Faults % | Total Tickets | % Tickets to Drivers | % Tickets to Car Plates | Licenses Revoked | Cars Banned from Traffic |
+|------|--------------|------------------|----------|------------|---------------|----------------|--------------|------------------|---------------------|-----------------|----------------------|
+| 2020 | 23,500,000  | 405,000          | 275,000  | 5,800      | 88%           | 12%            | 12,500,000   | 60%              | 40%                 | 15,000          | 10,500               |
+| 2021 | 24,200,000  | 420,000          | 285,000  | 5,950      | 87%           | 13%            | 13,200,000   | 58%              | 42%                 | 16,500          | 11,000               |
+| 2022 | 25,100,000  | 435,000          | 295,000  | 6,100      | 85%           | 15%            | 14,000,000   | 57%              | 43%                 | 18,000          | 11,800               |
+
+This table is a simplified example of what the structured dataset might contain. The actual dataset will be more detailed and include additional variables for deeper analysis.
