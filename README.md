@@ -1,11 +1,11 @@
-# Traffic Accidents & Tickets Analysis Project
-Data Science Project for the Analysis of Traffic Accidents &amp; Tickets in Turkey
+# Traffic Accidents & Safety Analysis Project
+Data Science Project for the Analysis of Traffic Accidents &amp; Safety in Turkey
 
 ## Project Overview
 * This project aims to analyze the relationship between the increase rate of traffic accidents and automobiles in Turkey over the past few years. The goal is to explore whether it is safer to drive in Turkey in comparison to the past.
 
 ## Motivation
-* Since traffic accidents are one of the primary reasons of death in Turkey, I was compelled to choose this subject to have a further understanding of the reasons of traffic related incidents. The results gathered might even give insights to predict future trends.
+* Since traffic accidents are one of the primary reasons of death in Turkey, I was compelled to choose this subject to have a further understanding of the trends of traffic related incidents. The results gathered might even give insights to predict future trends.
 
 ## Objectives
 * To identify trends in traffic accidents in relation to the increase in automobile numbers.
