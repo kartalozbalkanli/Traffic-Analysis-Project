@@ -27,10 +27,10 @@ The primary datasets used in this project will come from the following sources:
 
 Below is an example of how the dataset might look after cleaning and merging data from TUIK and the Gendarmerie General Command:
 
-| Year | Total Vehicles | Traffic Accidents | Injuries | Fatalities | 
-|------|--------------|------------------|----------|------------|
-| 2020 | 23,500,000  | 405,000          | 275,000  | 5,800      |
-| 2021 | 24,200,000  | 420,000          | 285,000  | 5,950      | 
-| 2022 | 25,100,000  | 435,000          | 295,000  | 6,100      | 
+| Year | Total Vehicles | Traffic Accidents | Injuries | Fatalities | Accidents Involving Injuries | Accidents Where The Driver was at Fault |
+|------|--------------|------------------|----------|------------|---------------------------|------------------------|
+| 2020 | 23,500,000  | 405,000          | 275,000  | 5,800      | 300,000       | 268,000     |
+| 2021 | 24,200,000  | 420,000          | 285,000  | 5,950      | 311,000        | 270,000     |
+| 2022 | 25,100,000  | 435,000          | 295,000  | 6,100      | 294,000        | 255,000     |
 
 This table is a simplified example of what the structured dataset might contain. The actual dataset will be more detailed and include additional variables for deeper analysis. (All the values used are placeholders to give an idea of the structure of the table)
